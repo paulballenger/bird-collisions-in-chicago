@@ -20,7 +20,7 @@ I found the dataset interested because I've been fedding birds in my backyard fo
 
 ## Screenshot
 
-![bird_collisions_screenshot](https://github.com/paulballenger/bird-collisions-in-chicago/bird_collisions_screenshot.png
+![bird_collisions_screenshot](https://github.com/paulballenger/bird-collisions-in-chicago/blob/main/bird_collisions_screenshot.png
 )
 
 ## Technologies
